@@ -12,4 +12,4 @@ Forked from: [AGMStudio](https://github.com/AGMStudio/prism-theme-one-dark)
 
 ## Preview
 ### Jinja2
-![jinja2](https://user-images.githubusercontent.com/21090563/54417143-8fb14200-46be-11e9-9611-14e1571a6be9.png)
+![jinja2](https://user-images.githubusercontent.com/21090563/54417483-912f3a00-46bf-11e9-9443-71c5456df6e6.png)
