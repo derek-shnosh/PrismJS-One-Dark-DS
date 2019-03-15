@@ -1,5 +1,5 @@
 {
-  "name": "prism-theme-one-dark",
+  "name": "prism-theme-one-dark-ds",
   "version": "1.0.0",
   "description": "Theme based on Atom Dark One to Prism JS",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AGMStudio/prism-theme-one-dark.git"
+    "url": "git+https://github.com/derek-shnosh/prism-theme-one-dark-ds.git"
   },
   "keywords": [
     "Prism",
@@ -16,10 +16,10 @@
     "onedark",
     "one-dark"
   ],
-  "author": "adrigm",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/AGMStudio/prism-theme-one-dark/issues"
+  "authors": {
+    "original": "adrigm",
+    "forked-by": "derek-shnosh"
   },
-  "homepage": "https://github.com/AGMStudio/prism-theme-one-dark#readme"
+  "license": "MIT",
+  "homepage": "https://github.com/derek-shnosh/prism-theme-one-dark-ds"
 }
