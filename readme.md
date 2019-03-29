@@ -2,16 +2,17 @@
 
 PrismJS theme loosely based on the [Atom's One Dark theme][atomonedark].
 
-> Forked from: [AGMStudio][agmstudio] 
+> Originally forked from: [AGMStudio][agmstudio] 
 
 ## Install
 
 1. Install [prismJS][prismjs].
-2. Add `prism-one-dark-ds.css` to your project.
-3. Change `prism.css` to `prism-one-dark-ds.css`.
+2. Use this `prism.css`.
 
 ## Preview
+
 ### Jinja2
+
 ![jinja2][preview-jinja2]
 
 
